@@ -8,12 +8,12 @@ While these contracts have been crafted to support the realization of the SkyLin
 
 ## Table of Contents
 
--   [💡 Introduction](#💡-introduction)
--   [📜 Contracts](#📜-contracts)
--   [🛠️ Testing and Coverage](#🛠️-testing-and-coverage)
--   [🚀 Usage](#🚀-usage)
--   [⚖️ License](#⚖️-license)
--   [👨‍💻 Author](#👨‍💻-author)
+-   [💡 Introduction](#-introduction)
+-   [📜 Contracts](#-contracts)
+-   [🛠️ Testing and Coverage](#-testing-and-coverage)
+-   [🚀 Usage](#-usage)
+-   [⚖️ License](#-license)
+-   [👨‍💻 Author](#-author)
 
 ## 💡 Introduction
 
